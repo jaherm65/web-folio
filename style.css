@@ -1,19 +1,23 @@
-h1{
-    font-size: 50px;
-}
+
 body{
     font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
 }
 span   {
     color: coral;
 }
 .half-sec{
  width: 40%;
- float: left;
+ 
  margin-left: 4%;
  padding-left: 2%;
 }
 .half-sec img{
     width: 100%;
     
+   }
+   .top-banner{
+       background-image: url("images/top-banner.png");
    }
