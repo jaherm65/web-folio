@@ -7,3 +7,13 @@ body{
 span   {
     color: coral;
 }
+.half-sec{
+ width: 40%;
+ float: left;
+ margin-left: 4%;
+ padding-left: 2%;
+}
+.half-sec img{
+    width: 100%;
+    
+   }
